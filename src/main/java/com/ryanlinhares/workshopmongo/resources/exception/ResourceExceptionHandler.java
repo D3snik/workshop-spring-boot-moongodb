@@ -1,4 +1,4 @@
-package com.ryanlinhares.workshopmongo.resources;
+package com.ryanlinhares.workshopmongo.resources.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
